@@ -25,3 +25,11 @@ console.log(i(3,4))
 console.log(i(4,3))
 console.log(i(5,3))
 console.log("")
+
+function k(r)
+{
+    return 2 * Math.PI * r;
+}
+console.log(k(1));
+console.log(k(5));
+console.log(k(3));
